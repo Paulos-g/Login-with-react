@@ -59,3 +59,7 @@ form {
 .Container button:hover {
   background-color: #bacbcb;
 }
+.footer {
+  font-family: "Roboto", sans-serif;
+  margin-top: 20px;
+}

@@ -2,7 +2,7 @@ import React from "react";
 function Input(props) {
   return (
     <div>
-      <input type={props.text} placeholder={props.placeholder}></input>
+      <input type={props.name} placeholder={props.placeholder}></input>
     </div>
   );
 }
